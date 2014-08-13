@@ -6,3 +6,8 @@ Project create by Cocos IDE
 
 DebugDraw is only run at canvas mode
 project.json 'renderMode :1'
+
+Usage
+==========
+1. just copy all of cocos2d-js frameworks folder.
+2. run
